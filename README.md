@@ -1,4 +1,6 @@
-<h1 align="center">🚀 Bienvenue dans le système de toki-tofu</h1>
+<h1 align="center">🚀 Bienvenue dans mon jeu étranger je suis toki-tofu</br> en référence à au tofu de wakfu , oui oui l'oiseau jaune <p align="center">
+  <img src="https://media1.tenor.com/m/Vq1Vz2Nk31cAAAAd/wakfu-tofu.gif" width="150" />
+</p></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" />
@@ -6,7 +8,6 @@
 
 ---
 
-## 📖 Chapitre I — Origines
 Né(e) dans un monde où les lignes de code sont des sortilèges,  
 j’ai commencé mon voyage avec **C#**.  
 Chaque `hello world` était une étoile qui s’allumait dans ma galaxie.  
@@ -16,16 +17,7 @@ Très vite, j’ai appris à manier des armes plus puissantes :
 - ⚡ **SQL** pour explorer les mondes de la donnée et de l’IA  
 - 🛡️ **HTML/C++/JAVASCRIPT/PHP** pour forger des pages internet
 
----
 
-## 🌌 Chapitre II — Mon vaisseau
-Un explorateur a besoin d’outils. Voici mon arsenal :  
-
-
-Mon vaisseau n’est pas seulement équipé pour voyager,  
-il est conçu pour **créer de nouveaux mondes numériques**.  
-
----
 
 ## 🛸 Chapitre III — Mes missions actuelles
 1. 🚧 Construire un JRPG dans le cadre de mes études
