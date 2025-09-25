@@ -36,8 +36,8 @@ il est conçu pour **créer de nouveaux mondes numériques**.
 
 ## 🔮 Chapitre IV — Statistiques cosmiques
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toki-tofu&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toki-tofu&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
