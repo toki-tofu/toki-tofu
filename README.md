@@ -11,9 +11,11 @@ Chaque ligne de code était une souffrance infligée </br>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVzdHpsbno1a2Fob2IycDh3ajkycDA3bW10M255YnMyYWFod245eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IGqg1BTcXw4XS0/giphy.gif" width="150" /></p>
 <div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,php,js,py,java,sqlite)](https://skillicons.dev)
   </br>
   </br>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot,unrealengine)](https://skillicons.dev)
   </br>
   </br>
