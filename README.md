@@ -20,5 +20,5 @@ Chaque ligne de code est une souffrance infligée </br>
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot,unrealengine)](https://skillicons.dev)
   </br>
   </br>
-  ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=LeJo54&theme=nightowl&layout=compact)
+  ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=toki-tofu&theme=nightowl&layout=compact)
 </div>  
